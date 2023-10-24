@@ -3,7 +3,9 @@
 This repository contains scripts to download, process, and analyze data for XXX.
 
 > *Authors:* XXX
+>
 > *Correspondence:* <XXX@XXX.com> or  [Name Surname](mailto:XXX@eawag.ch)
+>
 > *Date:* XX.XX.XXXX
 
 
